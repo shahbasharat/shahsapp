@@ -1,0 +1,6 @@
+{
+  "name": "Shah's SOC Path",
+  "description": "Ubuntu-meets-macOS local training platform for Security Operations Center (SOC) skills, complete with interactive labs, quiz simulations, study streaks, and offline indexable command logs under Shah's SOC Path guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
